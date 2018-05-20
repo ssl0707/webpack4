@@ -1,0 +1,5 @@
+{
+    // 下载babel-preset-stage-3识别es6的扩展语句...
+    "presets":["env","react","stage-3"],
+    "plugins":["react-hot-loader/babel"]
+}
